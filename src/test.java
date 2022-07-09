@@ -4,5 +4,6 @@ public class test {
         System.out.println("Teste inicial de Java");
         JOptionPane.showInputDialog(null, "Enter your password.");
         JOptionPane.showConfirmDialog(null, "this password is correct?");
+
     }
 }
